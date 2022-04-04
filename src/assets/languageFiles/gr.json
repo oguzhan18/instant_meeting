@@ -1,0 +1,22 @@
+{
+    "TITLE": "Schnelles Treffen",
+    "Welcome_message":"Die einfachste Adresse für ein schnelles, zuverlässiges und unkompliziertes Meeting,",
+    "Welcome_btm_new_meeting":"Erstellen Sie ein neues Meeting",
+    "Welcome_btn_join":"Nehmen Sie an der Besprechung teil",
+    "CreatingaConference":"Erstellen einer Konferenz:",
+    "PinCode":"Geheimzahl",
+    "UseDolbyVoice":"Verwenden Sie Dolby Voice",
+    "AllowLiveRecording":"Live-Aufzeichnung zulassen",
+    "RTCPMode":"RTCP-Modus",
+    "RTCPMode1":"Am schlechtesten",
+    "RTCPMode2":"Durchschnitt",
+    "RTCPMode3": "Max",
+    "VideoCodec":"Video Codec",
+    "CreatingaConferenceSuccses":"Glückwünsche! Sie haben die Konferenz erstellt.",
+    "Create":"Schaffen",
+    "CreatingaConference_Join_Mesagge":"Jetzt können Sie Ihre Freunde einladen und ihnen die Konferenz-ID zur Teilnahme mitteilen:",
+    "CreatingaConference_Join":"Verbinden",
+    "Joinaconference":" Einer Konferenz beitreten: ",
+    "Joinaconference_Id":"Ausweis",
+    "Joinaconference_Name":"Name"
+}

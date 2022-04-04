@@ -1,0 +1,23 @@
+{
+    "TITLE": "Reunión Rápida",
+    "Welcome_message":"La dirección más simple para una reunión rápida, confiable y fácil,",
+    "Welcome_btm_new_meeting":"Crear una nueva reunión",
+    "Welcome_btn_join":"Únete a la reunión",
+    "CreatingaConference":"Creación de una conferencia:",
+    "PinCode":"Código PIN",
+    "UseDolbyVoice":"Usar voz Dolby",
+    "AllowLiveRecording":"Permitir grabación en vivo",
+    "RTCPMode":"Modo RTCP",  
+    "RTCPMode1":"Peor",
+    "RTCPMode2":"Promedio",
+    "RTCPMode3":"Máx.",
+    "VideoCodec":"Códec de Vídeo",
+    "CreatingaConferenceSuccses":"¡Felicidades! Ha creado la conferencia.",
+    "Create":"Crear",
+    "CreatingaConference_Join_Mesagge":"Ahora puede invitar a sus amigos y decirles la ID de la conferencia para unirse:",
+    "CreatingaConference_Join":"Unirse",
+    "Joinaconference":" Unirse a una conferencia: ",
+    "Joinaconference_Id":"Identificación",
+    "Joinaconference_Name":"Nombre"
+
+}

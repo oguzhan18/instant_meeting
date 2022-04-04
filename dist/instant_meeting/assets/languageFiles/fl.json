@@ -1,0 +1,24 @@
+{
+    "TITLE": "Snelheidsbijeenkomst",
+    "Welcome_message":"Het makkelijkste adres voor een snelle, betrouwbare en makkelijke meeting,",
+    "Welcome_btm_new_meeting":"Een nieuwe vergadering maken",
+    "Welcome_btn_join":"Deelnemen aan de vergadering",
+    "CreatingaConference":"Een conferentie maken:",
+    "PinCode":"Pincode",
+    "UseDolbyVoice":"Dolby Voice gebruiken",
+    "AllowLiveRecording":"Live-opname toestaan",
+    "RTCPMode":"RTCP - Modus",
+    "RTCPMode1":"Slechtste",
+    "RTCPMode2":"Gemiddelde",
+    "RTCPMode3":"Max",
+    "VideoCodec":"Video Codec",
+    "CreatingaConferenceSuccses":"Gefeliciteerd! U hebt de conferentie gemaakt.",
+    "Create":"Creëren",
+    "CreatingaConference_Join_Mesagge":"Nu kunt u uw vrienden uitnodigen en hen de conferentie-ID vertellen om deel te nemen:",
+    "CreatingaConference_Join":"Meedoen",
+    "Joinaconference":" Doe mee aan een conferentie: ",
+    "Joinaconference_Id":"ID",
+    "Joinaconference_Name":"Naam"
+
+
+  }

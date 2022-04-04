@@ -1,0 +1,6 @@
+node_modules
+dist/meeting-instant/*
+.vscode/*
+readme.en.md
+readme.ru.md
+.nvmrc

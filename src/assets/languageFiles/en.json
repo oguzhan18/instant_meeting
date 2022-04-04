@@ -1,0 +1,22 @@
+{
+  "TITLE": "Speed Meeting",
+  "Welcome_message":"The easiest address for a fast, reliable and easy meeting,",
+  "Welcome_btm_new_meeting":"Create a New Meeting",
+  "Welcome_btn_join":"Join the Meeting",
+  "CreatingaConference":"Creating a Conference:",
+  "PinCode":"Pin Code",
+  "UseDolbyVoice":"Use Dolby Voice",
+  "AllowLiveRecording":"Allow Live Recording",
+  "RTCPMode":"RTCP Mode",
+  "RTCPMode1":"Worst",
+  "RTCPMode2":"Average",
+  "RTCPMode3":"Max",
+  "VideoCodec":"Video Codec",
+  "CreatingaConferenceSuccses":" Congratulations! You've created the conference.",
+  "Create":"Create",
+  "CreatingaConference_Join_Mesagge":" Now you can invite your friends and tell them the conference ID to join:",
+  "CreatingaConference_Join":" Join",
+  "Joinaconference":" Join a conference:",
+  "Joinaconference_Id":"ID",
+  "Joinaconference_Name":"Name"
+}

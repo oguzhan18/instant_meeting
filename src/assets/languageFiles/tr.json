@@ -1,0 +1,24 @@
+{
+    "TITLE": "Hızlı Toplantı",
+    "Welcome_message":"Hızlı, güvenilir ve kolay bir toplantının en kolay adresi,",
+    "Welcome_btm_new_meeting":"Yeni Bir Toplantı Oluştur",
+    "Welcome_btn_join":"Toplatıya Katıl",
+    "CreatingaConference":"Konferans Oluşturma:",
+    "PinCode":"Pin Kodu",
+    "UseDolbyVoice":"Dolby Voice'u kullan",
+    "AllowLiveRecording":"Canlı Kayda İzin Ver",
+    "RTCPMode":"RTCP Modu",
+    "RTCPMode1":"En Kötü",
+    "RTCPMode2":"Ortalama",
+    "RTCPMode3":"Max",
+    "VideoCodec":"Video Codec Bileşeni",
+    "CreatingaConferenceSuccses":"Tebrikler! Konferansı oluşturdunuz.",
+    "Create":"Oluştur",
+    "CreatingaConference_Join_Mesagge":"Artık arkadaşlarınızı davet edebilir ve onlara katılmaları için konferans kimliğini söyleyebilirsiniz:",
+    "CreatingaConference_Join":"Katıl",
+    "Joinaconference":" Bir konferansa katılın: ",
+    "Joinaconference_Id":"İD",
+    "Joinaconference_Name":"İsim"
+
+
+  }

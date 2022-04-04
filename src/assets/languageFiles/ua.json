@@ -1,0 +1,23 @@
+{
+  "TITLE": "اجتماع سريع ",
+  "Welcome_message":"أسهل عنوان لاجتماع سريع وموثوق وسهل ",
+  "Welcome_btm_new_meeting":"قم بإنشاء اجتماع جديد",
+  "Welcome_btn_join":"انضم للاجتماع",
+  "CreatingaConference":"إنشاء المؤتمر:",
+  "PinCode":"الرقم السري",
+  "UseDolbyVoice":"استخدم Dolby Voice",
+  "AllowLiveRecording":"السماح بالتسجيل المباشر",
+  "RTCPMode":"وضع RTCP",
+  "RTCPMode1": "أسوأ",
+  "RTCPMode2": "متوسط",
+  "RTCPMode3": "ماكس",
+  "VideoCodec":"ترميز الفيديو",
+  "CreatingaConferenceSuccses":"تهانينا! لقد قمت بإنشاء المؤتمر.",
+  "Create":"خلق",
+  "CreatingaConference_Join_Mesagge":"يمكنك الآن دعوة أصدقائك وإخبارهم بمعرف المؤتمر للانضمام:",
+  "CreatingaConference_Join":"ينضم",
+   "Joinaconference":" الانضمام إلى مؤتم: ",
+   "Joinaconference_Id":"هوية شخصية",
+   "Joinaconference_Name":"اسم"
+
+}
